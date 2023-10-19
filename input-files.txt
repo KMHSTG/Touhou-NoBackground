@@ -1,0 +1,37 @@
+
+   ---Original (Japanese)---
+
+Touhou 06 EoSD   -  紅魔郷CM.DAT
+Touhou 07 PCB    -  th07.dat
+Touhou 08 IN     -  th08.dat
+Touhou 09 PoFV   -  th09.dat
+Touhou 09.5 StB  -  th095.dat
+Touhou 10 MoF    -  th10.dat
+Touhou 11 SA     -  th11.dat
+Touhou 12 UFO    -  th12.dat
+Touhou 12.5 DS   -  th125.dat
+Touhou 12.8 GFW  -  th128.dat
+Touhou 13 TD     -  th13.dat
+Touhou 14 DDC    -  th14.dat
+Touhou 14.3 ISC  -  th143.dat
+Touhou 15 LoLK   -  th15.dat
+Touhou 16 HSiFS  -  th16.dat
+Touhou 16.5 VD   -  th165.dat
+Touhou 17 WBaWC  -  th17.dat
+Touhou 18 UM     -  th18.dat
+Touhou 18.5 BM   -  th185.dat
+
+
+    ---English Patched---
+
+Touhou 06 EoSD   -  th06e_CM.DAT 
+Touhou 07 PCB    -  th07e.dat
+Touhou 08 IN     -  th08e.dat
+Touhou 09 PoFV   -  th09e.dat
+Touhou 09.5 StB  -  th095e.dat
+Touhou 10 MoF    -  th10e.dat
+Touhou 11 SA     -  th11e.dat
+Touhou 12 UFO    -  th12e.dat
+Touhou 12.5 DS   -  th125e.dat
+Touhou 12.8 GFW  -  th128e.dat
+Touhou 13 TD     -  th13e.dat
